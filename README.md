@@ -7,4 +7,4 @@
 
 `dvchinx`
 
-![ScreenShot](https://github.com/dvchinx/TorquesWiki/blob/master/img.jpg)
+https://github.com/dvchinx/TorquesWiki/blob/7bd7fe129f6833f14a9a5c4a75b6a378dfbf7a64/img.jpg
