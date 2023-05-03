@@ -1,9 +1,9 @@
 # TorquesWiki
-View of the Proyect:
+**View of the Proyect:**
 
 `https://youtu.be/I-87bABQ7dM`
 
-Code by: 
+**Code by:**
 
 `dvchinx`
 
