@@ -1,9 +1,12 @@
-# TorquesWiki
-**View of the Proyect:**
+<h1 align="center">Manual de Torques</h1>
+
+*Manual de Armado de Motor, Torques y Reglajes puesta a punto  (Adaptado de: fraco.com.mx).*
+
+**Vista del Proyecto:**
 
 `https://youtu.be/I-87bABQ7dM`
 
-**Code by:**
+**Código por:**
 
 `dvchinx`
 
